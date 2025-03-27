@@ -63,3 +63,38 @@ align-items: center;
 .navbar ul {
 display: flex;
 }
+
+.album a {
+  display: block;
+  transition: all .2s ease-in-out;
+}
+
+
+.album a:hover {
+  transform: scale(1.05); /* 5% larger on hover */
+}
+
+.album-covers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  margin: 0 auto;
+}
+
+.album-covers > li {
+  position: relative;
+  cursor: pointer;
+}
+
+
+
+.album-cover {
+  padding: 2rem 0;
+}
+
+.review-content p {
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+  line-height: 1.6;
+}
