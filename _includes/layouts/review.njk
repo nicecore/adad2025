@@ -3,12 +3,17 @@ layout: layouts/base.njk
 ---
 
 <article>
-    <h1>{{title}}</h1>
-    <time>{{date}}</time>
-    <img src="{{ image }}" width="400" class="album-cover" alt="">
-    <div class="review-content">
-        {{content | safe}}
+    <div class="review-container">
+        <h1>{{title}}</h1>
+        <img src="{{ image }}" width="400" class="album-cover" alt="">
+        {# TODO: Format date #}
+        {# TODO: Add "updated on:" field #}
+        <time>Posted on {{date}}</time>
+        <div class="review-content">
+            {{content | safe}}
+        </div>
     </div>
+
     
 </article>
 
