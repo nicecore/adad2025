@@ -105,11 +105,6 @@ display: flex;
 
 
 
-
-.album-cover {
-  padding: 2rem 0;
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -134,8 +129,14 @@ img {
   max-width: 800px;
 }
 
-time {
-  display: block;
+.post-date {
+  font-style: italic;
+}
+
+.album-cover {
+  margin: 25px;
+  box-shadow: 5px 5px 5px rgb(81, 81, 81);
+  border-radius: 5px;
 }
 
 

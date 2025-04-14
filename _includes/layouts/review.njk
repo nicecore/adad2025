@@ -5,10 +5,11 @@ layout: layouts/base.njk
 <article>
     <div class="review-container">
         <h1>{{title}}</h1>
-        <img src="{{ image }}" width="400" class="album-cover" alt="">
+        <img class="album-cover" src="{{ image }}" width="400" alt="">
         {# TODO: Format date #}
         {# TODO: Add "updated on:" field #}
-        <time>Posted on {{date}}</time>
+        <p class="post-date">Posted <time>{{date | blogDate}}</time></p>
+
         <div class="review-content">
             {{content | safe}}
         </div>
