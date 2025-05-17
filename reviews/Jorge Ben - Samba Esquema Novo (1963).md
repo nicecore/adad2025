@@ -20,4 +20,5 @@ There's something simple and pure, yet also insanely complex, about these songs 
 Just take my word for it and give it a listen.
 
 **Highlights**: Everything
-**For Fans Of**: Vintage sounds, horns and strings, tropical vibes, historic, era-defining albums.
+
+**For Fans Of**: Brazil, Brazilian popular music, vintage sounds, horns and strings, tropical vibes, historic, era-defining albums.
