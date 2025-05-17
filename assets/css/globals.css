@@ -3,8 +3,8 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: #000000;
-    background: #facfcf;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    background: #fdfbf5;
+    font-family: "Quicksand", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
       sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -34,13 +34,13 @@ padding: 20px 10px;
 .navbar {
     background: #fdfbf5;
     color: black;
-    height: 80px;
-  }
+    height: 100px;
+}
   
 .navbar a {
 color: black;
 text-decoration: none;
-font-size: 1.5rem;
+font-size: 2.3rem;
 font-weight: bold;
 }
 
@@ -49,8 +49,9 @@ color: red;
 }
 
 .navbar .logo {
-font-size: x-large;
-font-weight: bold;
+  font-family: "Bungee Shade", sans-serif;
+
+  font-weight: bold;
 }
 
 .navbar-container {
@@ -58,7 +59,7 @@ height: 100%;
 display: flex;
 justify-content: space-between;
 align-items: center;
-padding: 20px 10px;
+padding: 20px 85px;
 }
 
 .navbar ul {
@@ -107,7 +108,7 @@ display: flex;
 
 
 .album-cover {
-  padding-bottom: 2rem;
+  padding: 2rem 0;
 }
 
 img {
@@ -134,10 +135,26 @@ img {
   max-width: 800px;
 }
 
-time {
-  display: block;
+.post-date {
+  font-style: italic;
 }
 
+.album-cover {
+  margin: 25px;
+  box-shadow: 5px 5px 5px rgb(81, 81, 81);
+  border-radius: 5px;
+}
+
+.about-paragraph {
+  margin: 0 auto;
+  font-size: 1.3rem;
+  max-width: 80%;
+}
+
+.upcoming-features {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
 /* Responsiveness */
 @media (max-width: 1420px) {
