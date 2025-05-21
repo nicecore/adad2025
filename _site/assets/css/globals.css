@@ -106,14 +106,11 @@ display: flex;
 
 
 
-<<<<<<< HEAD
 
 .album-cover {
-  padding-bottom: 2rem;
+  padding: 2rem 0;
 }
 
-=======
->>>>>>> 3b16eb7a71711ba713ce0033ac140dfbf894eba4
 img {
   max-width: 100%;
   height: auto;
