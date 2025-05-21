@@ -1,0 +1,23 @@
+---
+layout: layouts/review.njk
+title: Led Zeppelin - Led Zeppelin I (1969)
+date: 2025-05-16
+tags: review
+image: "/assets/images/ledzepi.png"
+---
+
+Many aspects of Led Zeppelin fascinate me and make me want to use a reviewer's journey through their discography to examine their musicianship, influences, musical thievery, and legacy as one of the most influential rock bands of all time. So on that note, come along with me as I explore these topics in my casual, low-effort way and discover which of their albums is the best, aka my favorite during the current month of the current year.
+
+For the longest time I've been interested in identifying great "track ones," or album openers, especially from debut albums since they really serve as a band's opening statement. "Good Times Bad Times" has to be one of the best; we get a great picture of what this band is gonna be about and each legendary member of this legendary band gets a little bit of their own space throughout the song to show how they're gonna rock out. Right out of the gate we get Jimmy Page's chunky riffs and soaring solos, John Bonham's funky, awesomely groovy drumming, John Paul Jones's...thumping...bass (that's not a knock at JPJ, I literally don't know how to talk about bass), and Robert Plant's psychotic howling and wailing (I mean that in a good way). We hear the band being funky, folky, bluesy, pretty, ugly, happy, and depressed all at once, and I mean, yeah it's pretty great.
+
+Track 2 is "Babe I'm Gonna Leave You" and things already get complicated because this song is basically a heavily modified, uncredited adaptation of a song Joan Baez performed live, which SHE also "adapted" from another woman without giving proper credit! Crazy 1960s, right? The original author of the song is Anne Bredon, whose [Wikipedia](https://en.wikipedia.org/wiki/Anne_Bredon) doesn't even feature a picture of her. Both Baez and Led Zeppelin (the latter in multiple cases that I'm aware of) escaped giving proper credit to Bredon through the dirty trick of citing the author as "Traditional," and then themselves as the arranger, as if the songs had been written by some anonymous, long-forgotten lute-playing druid centuries ago. In fact, two of the first four songs on this album were "adapted" from preexisting recordings and there is an entire [long ass Wikipedia article](https://en.wikipedia.org/wiki/List_of_Led_Zeppelin_songs_written_or_inspired_by_others) devoted to songs that "inspired" Led Zeppelin's songs, and as the article states, "they sometimes credited those sources; sometimes not."
+
+Apparently Bredon was "made aware" of Led Zeppelin's version of the song sometime in the 1980s - crazy that it took that long for it to come to her attention that the biggest rock band of the 70s had been earning royalties off of a song of hers for over a decade, but I digress - and she was finally given proper credit and received back payment of royalties, you know, after the song and the band had made their impact and were already cemented as rock legends. And somewhat cruelly, in the modern era with the messy, undoubtedly highly automated and sloppy integration of all of these analog dates and names into digital metadata to populate streaming services, the Led Zeppelin song bears the credit "Anne Bredon, Jimmy Page, Robert Plant," as if they all sat down over a wild weekend and wrote it together.
+
+Basically this same story also unfolded for "Dazed and Confused," which was originally written by Jake Holmes and adapted and yes, heavily modified towards hard rock operatics a la Led Zeppelin, but without credit to OG Holmes.
+
+Sorry, but as someone who thinks of himself as a songwriter and likes the idea of people knowing a song they enjoyed was written by me and not some ancient nameless druid, this issue kinda does get under my skin and now I've spent a few hundred words barely talking about the music itself. Overlooking these ethical issues around the true origins of some of these most earth-shattering recordings, which they are, this album is a pretty spectacular debut and it's going to be hard to beat by the rest, though I already know what a great effort they're going to make. 
+
+**Highlights:** Good Times Bad Times, Babe I'm Gonna Leave You, Dazed and Confused, Communication Breakdown, How Many More Times, I mean all of it really, it's Led Zeppelin I.
+
+**For Fans Of:** Like, Led Zeppelin, man.
