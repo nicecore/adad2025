@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+    background: #fdfbf5;
+    font-family: "Quicksand", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+  
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+}
+
+h1, h2 {
+margin-bottom: 15px;
+}
+  
+ul {
+list-style-type: none;
+}
+  
+.container {
+max-width: 1400px;
+margin: 0 auto;
+padding: 20px 10px;
+}
+
+.navbar {
+    background: #fdfbf5;
+    color: black;
+    height: 100px;
+}
+  
+.navbar a {
+color: black;
+text-decoration: none;
+font-size: 2.3rem;
+font-weight: bold;
+}
+
+.navbar a:hover {
+color: red;
+}
+
+.navbar .logo {
+  font-family: "Bungee Shade", sans-serif;
+
+  font-weight: bold;
+}
+
+.navbar-container {
+height: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px 85px;
+}
+
+.navbar ul {
+display: flex;
+}
+
+
+
+.album a {
+  transition: all .2s ease-in-out;
+}
+
+
+.album a:hover {
+  transform: scale(1.05); /* 5% larger on hover */
+}
+
+
+.album-covers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  margin: 0 auto;
+}
+
+.album-covers > li {
+  position: relative;
+  cursor: pointer;
+}
+
+.album {
+  flex-basis: 250px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  display: flex;
+}
+
+/* .album-covers::after {
+  content: "";
+  flex-basis: 520px;
+} */
+
+
+
+
+
+.album-cover {
+  padding: 2rem 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  vertical-align: middle;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.review-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.review-content p {
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+  line-height: 1.6;
+  max-width: 800px;
+}
+
+.post-date {
+  font-style: italic;
+}
+
+.album-cover {
+  margin: 25px;
+  box-shadow: 5px 5px 5px rgb(81, 81, 81);
+  border-radius: 5px;
+}
+
+.about-paragraph {
+  margin: 0 auto;
+  font-size: 1.3rem;
+  max-width: 80%;
+}
+
+.upcoming-features {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Responsiveness */
+@media (max-width: 1420px) {
+  .container {
+    padding: 20px 80px;
+  }
+}
+
+@media (max-width: 830px) {
+  .navbar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+
+@media (max-width: 1175px) {
+
+  .albums {
+    margin-top: 30px;
+  }
+
+  .review-detail-title {
+    text-align: center;
+  }
+
+  .review-detail-body {
+    margin: 0 auto;
+  }
+
+  .album-cover {
+    margin: 0 auto;
+  }
+
+  .nav-links {
+    margin: 10px 0;
+  }
+
+  .navbar {
+    height: 100px;
+  }
+
+  .review-detail-title {
+    margin-top: 30px;
+  }
+
+  #site-title-link {
+    font-size: 25px;
+  }
+
+}
+
+
+
+@media (max-width: 930px) {
+  .review-detail-body {
+    width: 85%;
+  }
+}
+
+@media (max-width: 562px) {
+  .album a {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 400px) {
+  .review-detail-body {
+    width: 92%;
+  }
+}
