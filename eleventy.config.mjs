@@ -8,13 +8,14 @@ function blogDate(input) {
   })}`;
 }
 
-
 export default async function (eleventyConfig) {
+    const isGitHubPages = process.env.GITHUB_PAGES === 'true';
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addFilter('blogDate', blogDate);
     eleventyConfig.addPlugin(HtmlBasePlugin, {
-      baseHref: "/adad2025/"
+      baseHref: isGitHubPages ? "/adad2025/" : "/"
     });
+
   }
 
 
