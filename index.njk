@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <ul class="album-covers">
     {% for post in collections.review | reverse %}
     <li class="album">
-        <a href="adad2025{{post.url}}">
+        <a href="{{post.url}}">
             <img class="grow" src="{{ post.data.image }}" width="400" height="400" alt="">
         </a>
     </li>
