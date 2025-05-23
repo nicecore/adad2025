@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx @11ty/eleventy",
-    "build-ghpages": "set GITHUB_PAGES=true && npx @11ty/eleventy"
+    "build-ghpages": "GITHUB_PAGES=true npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
