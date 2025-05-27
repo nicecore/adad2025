@@ -143,6 +143,14 @@ img {
   max-width: 80%;
 }
 
+blockquote {
+  margin: 8px auto;
+  padding: 5px 0;
+  padding-left: 10px;
+  border-radius: 5px;
+  font-style: italic;
+}
+
 .upcoming-features {
   margin-top: 20px;
   margin-bottom: 20px;
